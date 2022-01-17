@@ -1,5 +1,5 @@
 # MalekZy
-- 👋 My name i s Malek, software engineering student.<br>
+- 👋 My name is Malek, and I'm a software engineering student.<br>
 - 👀 I'm mostly interested in web development.
 - :blue_book: learning ReactJs
 
