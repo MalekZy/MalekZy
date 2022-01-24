@@ -30,7 +30,6 @@
 <div align="center">
   
 [![VSCode Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-99509d?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/) 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
