@@ -42,7 +42,7 @@
 
 <div align="center"> 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MalekZy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MalekZy&icon_color=fb8c00&show_icons=true&hide_border=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MalekZy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&currStreakNum=DDDDDD&sideNums=DDDDDD&dates=A6A3A3D4)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MalekZy&bg_color=0D1117&icon_color=fb8c00&show_icons=true&hide_border=true&theme=dark)
   
 </div>
